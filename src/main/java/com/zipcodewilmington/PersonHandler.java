@@ -20,7 +20,6 @@ public class PersonHandler {
             result = result + currentPerson.toString();
             counter++;
         }
-        System.out.println(result);
         return result;
     }
     //
